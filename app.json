@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "ig-clone-live",
+    "slug": "ig-clone-live",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "f7f47768-17fa-4bd7-a904-7f068049e683"
+      }
+    }
+  },
+  "name": "ig-clone-live"
+}
